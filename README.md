@@ -7,6 +7,10 @@ cd b4r-brute
 
 python b4r-brute.py
 
+Si da problemas a la hora de ejecutarlo, con el siguiente comando se arregla.
+
+pip3 install mechanize
+
 Usen este contenido para el bien y el uso educativo, Ethical Tutoriales no se hace responsable de su mal uso.
 
 Podeis seguirnos en nuestras redes sociales.
